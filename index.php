@@ -37,7 +37,7 @@
 
 <body>
     <div class="container">
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.thairath.co.th%2Fmedia%2FdFQROr7oWzulq5FZWgs0vW0XsqogKnZCqWUKSzlokBa7s1x9b3Tl8ELuZ6VkiBrSSDP.jpg&imgrefurl=https%3A%2F%2Fwww.thairath.co.th%2Fnews%2Fforeign%2F1099719&tbnid=uh2C80FHnMrkYM&vet=12ahUKEwi0rZyimdf0AhU1t2MGHSFsA7UQMygCegUIARC9AQ..i&docid=6LUb6_YMTO5IvM&w=1000&h=563&itg=1&q=%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%88%E0%B8%87&ved=2ahUKEwi0rZyimdf0AhU1t2MGHSFsA7UQMygCegUIARC9AQ"
+    <img src="https://static.thairath.co.th/media/dFQROr7oWzulq5FZWgs0vW0XsqogKnZCqWUKSzlokBa7s1x9b3Tl8ELuZ6VkiBrSSDP.jpg"
     class="img-fluid" alt="..." width="90%">
     <div class="container">
     <div class="col-12 bg3">[Float:left]</div>
@@ -45,7 +45,7 @@
         <div class="row">
             <div class="col-4">
                 <div class="card" style="width: 20rem;">
-                <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.77kaoded.com%2Fnews%2Fprimwut%2F1835618&psig=AOvVaw248AvGo1UEaeAZ4Aea1w0P&ust=1639155782023000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJD7k62Z1_QCFQAAAAAdAAAAABAZ" class="card-img-top" alt="...">
+                <img src="https://mpics.mgronline.com/pics/Images/564000007595501.JPEG" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">เสือเป็นสัตว์ที่มีชีวิตสันโดษ ยกเว้นแม่เสือที่มีลูกอ่อน แต่เสือแต่ละตัวจะมีอาณาเขตไม่ไกลกันนัก เสือโคร่งบางตัวอาจมีพฤติกรรมเข้าสังคม เช่น แบ่งปันเหยื่อกันกิน</p>
                     </div>
@@ -53,7 +53,7 @@
             </div>
             <div class="col-4">
                 <div class="card" style="width: 20rem;">
-                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhilight.kapook.com%2Fview%2F204008&psig=AOvVaw248AvGo1UEaeAZ4Aea1w0P&ust=1639155782023000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJD7k62Z1_QCFQAAAAAdAAAAABAf" class="card-img-top" alt="...">
+                    <img src="https://www.matichon.co.th/wp-content/uploads/2019/08/tiger.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">เสือโคร่งจะหลบซ่อนตัวอยู่ในถ้ำ โพรงไม้ และในบริเวณที่มีต้นไม้หนาแน่น ส่วนใหญ่จะออกมาในตอนกลางคืน แต่เสือไซบีเรียจะออกมาในช่วงกลางวันของฤดูหนาว</p>
                     </div>
